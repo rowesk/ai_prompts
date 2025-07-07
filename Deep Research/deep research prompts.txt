@@ -10,6 +10,9 @@ I personally use and recommend Bolt on Mac for this — it's incredibly flexible
 ### Model selection:
 Any reasoning model will work, but I've found o4-mini to be the best balance of speed and quality to generate the best prompts.
 
+Again, any deep research model will work, but I've had the best results with Gemini 2.5 Pro, purely because of the budget alloted to the number of page crawls which is virtually limitless.
+
+---
 
 ## Deep Research Prompt 1
 
